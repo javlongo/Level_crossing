@@ -1,0 +1,17 @@
+Dependencies for Project 'UART_receiver_module', Target 'Target 1': (DO NOT MODIFY !)
+F (.\UART_receiver_module.c)(0x58F36A8C)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\Level_crossing-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="523" -D_RTE_ -DTM4C123GH6PM-o .\objects\uart_receiver_module.o --omf_browse .\objects\uart_receiver_module.crf --depend .\objects\uart_receiver_module.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F6CB98)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x551052AC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x58990E6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6CB98)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x58990E6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x58990E6A)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B75486)
+I (..\..\Level_crossing\PWM_module\PWM_module.h)(0x58EE3E85)
+I (UART_receiver_module.h)(0x5904882A)
+I (..\..\Level_crossing\UART_sender_module\UART_sender_module.h)(0x58EE6C9B)
+I (..\..\Level_crossing\LEDs_module\LEDs_module.h)(0x58F21258)
+I (..\..\Level_crossing\Testing_module\Testing_module.h)(0x58F39308)
+F (.\UART_receiver_module.h)(0x5904882A)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B75486)()
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550AD65A)()

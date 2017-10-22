@@ -1,0 +1,2 @@
+--create .\Objects\PWM_module.lib
+.\objects\pwm_module.o

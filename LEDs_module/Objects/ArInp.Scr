@@ -1,0 +1,2 @@
+--create .\Objects\LEDs_module.lib
+.\objects\leds_module.o

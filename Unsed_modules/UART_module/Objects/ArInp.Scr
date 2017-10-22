@@ -1,0 +1,2 @@
+--create .\Objects\UART_module.lib
+.\objects\uart_module.o

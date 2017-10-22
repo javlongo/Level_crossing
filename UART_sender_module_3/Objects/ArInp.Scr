@@ -1,0 +1,2 @@
+--create .\Objects\UART_sender_module_3.lib
+.\objects\uart_sender_module_3.o

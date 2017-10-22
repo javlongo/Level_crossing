@@ -1,0 +1,8 @@
+--create .\Objects\Library.lib
+.\objects\pwm_module.o
+.\objects\switch_1_module.o
+.\objects\uart_receiver_module.o
+.\objects\uart_sender_module.o
+.\objects\uart_sender_module_3.o
+.\objects\uart_receiver_module_3.o
+.\objects\leds_module.o
